@@ -1,1 +1,16 @@
 /* Empty. Add your own CSS if you like */
+
+#googleplusButton{
+    background-color: #d34836;
+    color: #ffffff;
+}
+
+#facebookButton{
+    background-color: #3b5998;
+    color: #ffffff;
+}
+
+#twitterButton{
+    background-color: #00aced;
+    color: #ffffff;
+}
